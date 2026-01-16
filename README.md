@@ -51,5 +51,5 @@ Bu proje kapsamında:
 konularında pratik deneyim kazanılmıştır.
 
 ## Not
-Bu proje eğitim ve portföy amaçlı geliştirilmiştir. Derleme çıktıları ve kişisel ayar dosyaları
-GitHub reposuna bilinçli olarak eklenmemiştir.
+Derleme çıktıları ve kişisel ayar dosyaları bilinçli olarak
+GitHub reposuna eklenmemiştir.
