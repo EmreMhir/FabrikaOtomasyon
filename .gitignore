@@ -1,6 +1,29 @@
+# Build çıktıları
 bin/
 obj/
-packages/
+
+# Visual Studio
 .vs/
 *.user
 *.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+
+# Log / geçici
+*.log
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Publish / Release
+publish/
+Release/
+
+# Test / cache
+TestResults/
